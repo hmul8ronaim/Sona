@@ -1,7 +1,9 @@
 ## Interface: 90002
 ## Version: 0.0.1
 ## Title: Sona
+## Notes: Little, like my puppy Sona. :)
 ## Author: Colton Townley
+## X-Website: www.benice2.me
 
 Sona.lua
 Sona.xml
